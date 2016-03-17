@@ -1,5 +1,5 @@
 class Player:
-    name = 'Player1'
+    name = 'Player2'
 
     def __init__(self):
         pass
